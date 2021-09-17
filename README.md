@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **antekrtalic/antekrtalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hi there, I'm Ceki</h2>
+#Hi there, I'm Ceki 👋
