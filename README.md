@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 <h1>Hi there, I'm Ceki 👋</h1>
 <ul>
   <li>🌱 I'm currently learning Java, and I'm working through Java Programming II</li>
-  <li>I'm also finishing my 301 Days of Code challenge, and you can follow my path here <a href=https://twitter.com/Ceki41189383">Twitter</a></li>
+  <li>🔭 I'm also finishing my 301 Days of Code challenge, and you can follow my path here <a href="https://twitter.com/Ceki41189383">Twitter</a></li>
+  <li 🏆 I hold FreeCodeCamp Responsibe Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a> and MOOC university Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a></li>
+  <li> 😄 He/Him</li>
 </ul>
