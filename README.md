@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/antekrtalic/Library">Library</a> - Small book card project that uses localStorage for saving data.</li>
   <li><a href"https://github.com/antekrtalic/Etch-a-Sketch">Etch-a-Sketch</a> - Hover over squares and get random background color, while changing the number of squares.</li>
 </ul>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antekrtalic)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antekrtalic&theme=tokyonight)
 
