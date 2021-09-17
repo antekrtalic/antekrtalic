@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi there, I'm Ceki 👋</h1>
+<ul>
+  <li>I'm currently learning :java:, and I'm working through Java Programming II</li>
+</ul>
