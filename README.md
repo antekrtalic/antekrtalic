@@ -21,3 +21,6 @@ Here are some ideas to get you started:
   <li> 🏆 I hold FreeCodeCamp Responsibe Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a> and MOOC university Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a></li>
   <li> 😄 He/Him</li>
 </ul>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antekrtalic)](https://github.com/anuraghazra/github-readme-stats)
+
