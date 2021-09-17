@@ -30,7 +30,13 @@ Here are some ideas to get you started:
   <li><a href="https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126/ref=sr_1_1?dchild=1&keywords=python+4+everybody&qid=1631867507&sr=8-1">Python For Everybody</a></li> 
 </ul>
 
-
+<h3>🥇 Memorable projects</h3>
+<ul>
+  <li><a href="https://github.com/mbeckdev/spell-man">Word Chomp</a> - A game made with 2 more perons for kids. A vanila JavaScript project based on <a href="https://itch.io/jam/top-jam-1">Odin Project Gamejam</a>. You can play it here <a href="https://mbeckdev.itch.io/word-chomp">itc.io</a></li>
+  <li><a href="https://github.com/antekrtalic/Calculator">Calculator</a> - Calculator that works only with basic math operations.</li>
+  <li><a href="https://github.com/antekrtalic/Library">Library</a> - Small book card project that uses localStorage for saving data.</li>
+  <li><a href"https://github.com/antekrtalic/Etch-a-Sketch">Etch-a-Sketch</a> - Hover over squares and get random background color, while changing the number of squares.</li>
+</ul>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antekrtalic)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antekrtalic&theme=tokyonight)
 
