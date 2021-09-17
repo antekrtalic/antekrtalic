@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3>📚 Books I've read</h3>
 <ul>
-  </li><a href="https://www.amazon.com/Smarter-JavaScript-tech-assisted-approach-requires/dp/1497408180/ref=sr_1_1?dchild=1&keywords=a+smarter+way+to+learn+javascript&qid=1631866760&sr=8-1">A Smarter Way to Learn JavaScript</a></li>
+  <li><a href="https://www.amazon.com/Smarter-JavaScript-tech-assisted-approach-requires/dp/1497408180/ref=sr_1_1?dchild=1&keywords=a+smarter+way+to+learn+javascript&qid=1631866760&sr=8-1">A Smarter Way to Learn JavaScript</a></li>
   <li><a href="https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984/ref=sr_1_6?dchild=1&keywords=c+programming+absolute+beginner&qid=1631867384&sr=8-6"></a>C Programming Absolute Beginner's Guide</li>
   <li><a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?dchild=1&keywords=python+crash+course&qid=1631867480&sr=8-1">Python Crash Course</a></li>
   <li><a href="https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126/ref=sr_1_1?dchild=1&keywords=python+4+everybody&qid=1631867507&sr=8-1">Python For Everybody</a></li> 
