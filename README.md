@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1>Hi there, I'm Ceki 👋</h1>
 <ul>
-  <li>I'm currently learning :java:, and I'm working through Java Programming II</li>
+  <li>I'm currently learning Java, and I'm working through Java Programming II</li>
+  <li>I'm also finishing my 301 Days of Code challenge, and you can follow my path here [here](https://twitter.com/Ceki41189383)</li>
 </ul>
