@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1>Hi there, I'm Ceki 👋</h1>
 <ul>
-  <li>🌱 I'm currently learning Java, and I'm working through Java Programming II and TheOdinProject</li>
+  <li>🌱 I'm currently learning Java, and I'm working through <a href="https://java-programming.mooc.fi/part-8">Java Programming II</a> and <a href="https://www.theodinproject.com/dashboard">TheOdinProject</a></li>
   <li>🔭 I'm also finishing my 301 Days of Code challenge, and you can follow my path here <a href="https://twitter.com/Ceki41189383">Twitter</a></li>
-  <li> 🏆 I hold FreeCodeCamp Responsibe Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a> and MOOC university Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a></li>
+  <li> 🏆 I hold FreeCodeCamp Responsibe Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a> and University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a></li>
   <li> 😄 He/Him</li>
 </ul>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3>🥇 Memorable projects</h3>
 <ul>
-  <li><a href="https://github.com/mbeckdev/spell-man">Word Chomp</a> - A game made with 2 more persons for kids. A vanila JavaScript project based on <a href="https://itch.io/jam/top-jam-1">Odin Project Gamejam</a>. You can play it here <a href="https://mbeckdev.itch.io/word-chomp">itch.io</a></li>
+  <li><a href="https://github.com/mbeckdev/spell-man">Word Chomp</a> - A game made with 2 more persons for kids. A Vanilla JavaScript project based on <a href="https://itch.io/jam/top-jam-1">Odin Project Gamejam</a>. You can play it here <a href="https://mbeckdev.itch.io/word-chomp">itch.io</a></li>
   <li><a href="https://github.com/antekrtalic/Calculator">Calculator</a> - Calculator that works only with basic math operations.</li>
   <li><a href="https://github.com/antekrtalic/Library">Library</a> - Small book card project that uses localStorage for saving data.</li>
   <li><a href="https://github.com/antekrtalic/Etch-a-Sketch">Etch-a-Sketch</a> - Hover over squares and get random background color, while changing the number of squares.</li>
