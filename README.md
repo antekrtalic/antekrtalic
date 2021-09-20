@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🌱 I'm currently learning Java, and I'm working through <a href="https://java-programming.mooc.fi/part-8">Java Programming II</a> and <a href="https://www.theodinproject.com/dashboard">TheOdinProject</a></li>
   <li>🔭 I'm also finishing my 301 Days of Code challenge, and you can follow my path here <a href="https://twitter.com/Ceki41189383">Twitter</a></li>
-  <li> 🏆 I hold FreeCodeCamp Responsibe Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a> and University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a></li>
+  <li> 🏆 I hold FreeCodeCamp Responsive Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a> and University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a></li>
   <li> 😄 He/Him</li>
 </ul>
 
