@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🌱 I'm currently learning Spring for Java.</li>
   <li>🔭 I'm also finishing my 301 Days of Code challenge, and you can follow my path here <a href="https://twitter.com/Ceki41189383">Twitter</a></li>
-  <li> 🏆 I hold FreeCodeCamp Responsive Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a>, University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a> and Java programming II <a href="https://certificates.mooc.fi/validate/85y57f8zbg">Certificate</a></li>
+  <li> 🏆 I hold FreeCodeCamp Responsive Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a>, University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a>, Java programming II <a href="https://certificates.mooc.fi/validate/85y57f8zbg">Certificate</a></li> and <a href="https://prnt.sc/20wrjse"> Relational Database and SQL Essentials</a> 
   <li> 😄 He/Him</li>
 </ul>
 
