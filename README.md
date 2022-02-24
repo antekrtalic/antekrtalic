@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1>Hi there, I'm Ceki 👋</h1>
 <ul>
-  <li>🌱 I'm currently going through Spring & Hibernate for Beginners, Udemy course.</li>
+  <li>🌱 Java Backend </li>
   <li>🔭 I'm also finishing my 100 Days of Code challenge, and you can follow my path here <a href="https://twitter.com/Ceki41189383">Twitter</a></li>
-  <li> 🏆 I hold FreeCodeCamp Responsive Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a>, University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a>, Java programming II <a href="https://certificates.mooc.fi/validate/85y57f8zbg">Certificate</a></li> and <a href="https://prnt.sc/20wrjse"> Relational Database and SQL Essentials</a> 
+  <li> 🏆 I hold FreeCodeCamp Responsive Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a>, University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a>, Java programming II <a href="https://certificates.mooc.fi/validate/85y57f8zbg">Certificate</a></li>, <a href="https://prnt.sc/20wrjse"> Relational Database and SQL Essentials</a> and latest but not last <ahref="https://prnt.sc/QqrRUmWEIMsi">Spring & Hibernate</a>.
   <li> 😄 He/Him</li>
 </ul>
 
