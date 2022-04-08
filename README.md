@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi there, I'm Ceki 👋</h1>
+<p>Software Engineer</p>
 <ul>
   <li>🌱 Currently learning about JUnit 5 and Mockito from the <a href="https://www.amazon.com/Practical-Unit-Testing-JUnit-Mockito/dp/8393489393">Practical Unit Testing with JUnit and Mockito</a> by Tomek Kaczanowski and Break The Code 2</li>
   <li>🔭 I already finished my 301Days of Code and 100DaysOfCode. I'm currently trying to reach 1000Days of Code and you can follow my path here <a href="https://twitter.com/Ceki41189383">Twitter</a></li>
