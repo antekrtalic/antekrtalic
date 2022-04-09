@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Hi there, I'm Ceki 👋</h1>
 <p>Software Engineer</p>
 <ul>
-  <li>🌱 Currently learning about JUnit 5 and Mockito from the <a href="https://www.amazon.com/Practical-Unit-Testing-JUnit-Mockito/dp/8393489393">Practical Unit Testing with JUnit and Mockito</a> by Tomek Kaczanowski and Break The Code 2</li>
+  <li>🌱 Currently going through TOP, FullStack JavaScript path</li>
   <li>🔭 I already finished my 301Days of Code and 100DaysOfCode. I'm currently trying to reach 1000Days of Code and you can follow my path here <a href="https://twitter.com/Ceki41189383">Twitter</a></li>
   <li> 🏆 I hold FreeCodeCamp Responsive Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a>, University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a>, Java programming II <a href="https://certificates.mooc.fi/validate/85y57f8zbg">Certificate</a></li>, <a href="https://prnt.sc/20wrjse">Relational Database and SQL Essentials</a> and latest but not last <a href="https://www.udemy.com/certificate/UC-ac940e59-3db2-4989-95fa-d6871a90b0c6/">Spring & Hibernate</a>.
   <li> 😄 He/Him</li>
