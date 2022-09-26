@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Software Engineer</p>
 <ul>
   <li>🌱 Currently going through Java, Spring Boot, Flyway, Docker </li>
-  <li>🔭 Trying to do 1000 days in row. Currently 610/1000</li>
+  <li>🔭 Trying to do 1000 days in row. Currently 611/1000</li>
   <li> 🏆 I hold FreeCodeCamp Responsive Web Design <a href="https://freecodecamp.org/certification/ceki/responsive-web-design">Certificate</a>, University of Helsinki Java Programming I <a href="https://certificates.mooc.fi/validate/fnkh9trf8r">Certificate</a>, Java programming II <a href="https://certificates.mooc.fi/validate/85y57f8zbg">Certificate</a></li>, <a href="https://prnt.sc/20wrjse">Relational Database and SQL Essentials</a> and latest but not last <a href="https://www.udemy.com/certificate/UC-ac940e59-3db2-4989-95fa-d6871a90b0c6/">Spring & Hibernate</a>.
   <li> 😄 He/Him</li>
 </ul>
